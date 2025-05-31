@@ -1,3 +1,4 @@
 # Tejas
 This is my first git repository
-we made a chande in first git repository
+br
+we made a change in first git repository
